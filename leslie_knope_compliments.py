@@ -4,10 +4,10 @@ A geneartor for Leslie Knope-ish compliments.
 
 import random
 
-name = input("What is your name? ")
+name = input("Who are you? ")
 
-adj = ["gorgeous,", "vuluptuous,", "elusive,", "spirited,", "clever,", "brilliantly radiant,", "fertile,",\
-"subtle,", "seductive,", "simple,", "wise,", "persistent,", "trembling", "insatiable,", "purebred,"]
+adj = ["gorgeous,", "voluptuous,", "elusive,", "spirited,", "clever,", "brilliantly radiant,", "fertile,",\
+"subtle,", "seductive,", "simple,", "wise,", "persistent,", "trembling,", "insatiable,", "purebred,"]
 
 noun = ["land mammal", "baby", "baby owl", "starburst", "fox", "platypus", "rainbow", "lollipop", "horse's mane", \
 "sundial"]
