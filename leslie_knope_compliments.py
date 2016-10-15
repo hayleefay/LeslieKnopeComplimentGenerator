@@ -7,7 +7,7 @@ import random
 name = input("What is your name? ")
 
 adj = ["gorgeous,", "vuluptuous,", "elusive,", "spirited,", "clever,", "brilliantly radiant,", "fertile,",\
-"subtle,", "seductive,", "simple,", "wise,", "persistent,", "trembling", "insatiable,", "purebred,"]
+"subtle,", "seductive,", "simple,", "wise,", "persistent,", "trembling,", "insatiable,", "purebred,"]
 
 noun = ["land mammal", "baby", "baby owl", "starburst", "fox", "platypus", "rainbow", "lollipop", "horse's mane", \
 "sundial"]
