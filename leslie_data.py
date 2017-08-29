@@ -24,6 +24,8 @@ def get_leslie_quotes():
                 quote = quote.get_text()
                 leslie_quotes.append(quote)
 
+    import pdb; pdb.set_trace()
+
     return leslie_quotes
 
 
